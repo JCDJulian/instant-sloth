@@ -1,7 +1,9 @@
 InstaSloth
 =============
 
-A Chrome extension that returns an HTML panel of sloths in various moods to be conveniently be used as reaction posts on online social websites. Click the sloth inserts it into the active text field. The "Random Sloth" feature searches and randomizes order of images of sloths on Flickr.
+A Chrome extension that returns an HTML panel of sloths in various moods to be conveniently be used as reaction posts on online social websites. Click the sloth inserts it into the active text field.
+
+The "Random Sloth" [CURRENTLY DISABLE WHILE UNDER DEVELOPMENT] feature searches and randomizes order of images of sloths on Flickr.
 
 Instructions/Features
 =============
