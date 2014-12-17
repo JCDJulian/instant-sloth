@@ -12,14 +12,14 @@ Instructions/Features
 
 Notes and Attributions
 =============
-*Random Sloth mode is NOT currently random. It currently appends the first several images found of sloths on Flickr.
-  The code to do this is currently taken from a Chrome extension tutorial and is found in popup.js, distributed through a BSD-style license:
-  It is Copyright (c) 2012 The Chromium Authors. All rights reserved. It may not be redistributed for commercial purposes.
-  *It is just placeholder code while I work on my own script.
-*All images of sloths are used under the Creative Commons license and culled from Flickr. Out of courtesy, I am currently compiling a list of attributions.
-*Certain elements were recreated with the help of online tutorials.
-  *JQuery tabs were created with help from Inspirational Pixels' tutorial: http://inspirationalpixels.com/tutorials/creating-tabs-with-html-css-and-jquery
-  *Image grid was created with help from Ali Jafarian's tutorial: http://alijafarian.com/responsive-image-grids-using-css/
+* Random Sloth mode is NOT currently random. It currently appends the first several images found of sloths on Flickr.
+  * The code to do this is currently taken from a Chrome extension tutorial and is found in popup.js, distributed through a BSD-style license:
+  * It is Copyright (c) 2012 The Chromium Authors. All rights reserved. It may not be redistributed for commercial purposes.
+  * It is just placeholder code while I work on my own script.
+* All images of sloths are used under the Creative Commons license and culled from Flickr. Out of courtesy, I am currently compiling a list of attributions.
+* Certain elements were recreated with the help of online tutorials.
+  * JQuery tabs were created with help from Inspirational Pixels' tutorial: http://inspirationalpixels.com/tutorials/creating-tabs-with-html-css-and-jquery
+  * Image grid was created with help from Ali Jafarian's tutorial: http://alijafarian.com/responsive-image-grids-using-css/
   
 License
 =============
